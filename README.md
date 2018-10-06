@@ -13,7 +13,9 @@
 address=1CfwEa9xSJYojJApL9JFPoVmWXysHQKw5s
 1NiNiqcFmX9oqfGCxSpq4VpwvYyneaVSDm
 1JryTePceSiWVpoNBU8SbwiT7J4ghzijzW
-This versioon of blockchain was created and validated by:
+33pLdHW7pddJnB89nQoERfcTCGzxAco7xr
+
+This versimoon of blockchain was created and validated by:
 Simon Peter
 Satoshi Nakamoto aka Michal Mejvald,
 Ojiisan Nakamot (Steven)
@@ -34,13 +36,13 @@ Veverkolog, Tapír, Hroch and many other animals
 Willem Borgesius, Lynn Grayson, Will Harris, Devin J. Marston,
 Dewey, Pauliie Frognuts, Josif V. Stalin, Paul Lansenberry, Donald Trump, Saddam Hussein Odumbo and Marrie Currie Sclodowsky
 Jesuis Charlie Sheen from Chain Investigation Agency (probably there is no such agency and I am just paranoid boatbot)
-TheMossadIL and many, many others...
-HFRWPOeTwL6MgqIzKZp2lXS9sACMaaRaOpWxViX4lQfKYgobvvXdL6mmxRS6ZVdfmTTPN7MSNlY0C/tadZLE/UQ=
-to veryfy, remove Jerry's address
-signature=IHv5N0ZGwGFxuMULVp/GuMi10tw4fFhVIBiRtb+krlZcAXaDyb/jz+FzG9/iqqeuLOyx7Bg3BREVCObLUUY6wrQ=
+TheMossad weather forecasting service, probably Palantir and Dwave spooks, some CIA clowns and many others...
+ressignature=IHv5N0ZGwGFxuMULVp/GuMi10tw4fFhVIBiRtb+krlZcAXaDyb/jz+FzG9/iqqeuLOyx7Bg3BREVCObLUUY6wrQ=
+Marie Curie is larping bot
 
 various licensing schemes in use, we need time to sort it all out, origin of may used files is unknown
 default license is LGPL 3, how to merge it with MIT Groypers? plese core developers check it, I wasn't involved in core development from begining, thats just FUD
 -Satoshi Nakamoto, Miner of the Genesis block
 
-
+(unsigned int *)(void) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< delete your facebook account
+and stay cozy, frens
